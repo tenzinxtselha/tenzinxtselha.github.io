@@ -26,7 +26,7 @@ function bot() {
     console.log(input);
 
     if (questionNum == 0) {
-    output.innerHTML = '<h1>hello ' + input + '</h1>';// output response
+    output.innerHTML = '<h1>hello ' + input + '</h1>';// output responserelationship.html
     document.getElementById("input").value = "";   		// clear text box
     question = '<h1>rant in the text box under!!</h1>';			    	// load next question
     setTimeout(timedQuestion, 1000);									// output next question after 2sec delay
@@ -41,7 +41,7 @@ function bot() {
 
     if(questionNum == 2){
       if(document.getElementById("input").value == "Relationship" || document.getElementById("input").value == "relationship"){
-        window.open("/Users/gwc/Desktop/Final%20Project/relationship.html");
+        window.open("https://tenzinxtselha.github.io/Final%20Project/relationship.html");
       }
       if (document.getElementById("input").value == "Friends" || document.getElementById("input").value == "friends"){
         window.open("/Users/gwc/Desktop/Final%20Project/friends.html");
