@@ -44,22 +44,22 @@ function bot() {
         window.open("https://tenzinxtselha.github.io/Final%20Project/relationship.html");
       }
       if (document.getElementById("input").value == "Friends" || document.getElementById("input").value == "friends"){
-        window.open("/Users/gwc/Desktop/Final%20Project/friends.html");
+        window.open("https://tenzinxtselha.github.io/Final%20Project/friends.html");
       }
       if (document.getElementById("input").value == "School" || document.getElementById("input").value == "school"){
-        window.open("/Users/gwc/Desktop/Final%20Project/school.html");
+        window.open("https://tenzinxtselha.github.io/Final%20Project/school.html");
       }
       if (document.getElementById("input").value == "Bullying" || document.getElementById("input").value == "bullying"){
-        window.open("/Users/gwc/Desktop/Final%20Project/bullying.html");
+        window.open("https://tenzinxtselha.github.io/Final%20Project/bullying.html");
       }
       if (document.getElementById("input").value == "College" || document.getElementById("input").value == "college"){
-        window.open("/Users/gwc/Desktop/Final%20Project/college.html");
+        window.open("https://tenzinxtselha.github.io/Final%20Project/college.html");
       }
       if (document.getElementById("input").value == "Family"|| document.getElementById("input").value == "family"){
-        window.open("/Users/gwc/Desktop/Final%20Project/family.html");
+        window.open("https://tenzinxtselha.github.io/Final%20Project/family.html");
       }
       else{
-        window.open("/Users/gwc/Desktop/Final%20Project/coverpage.html");
+        window.open("https://tenzinxtselha.github.io/Final%20Project/coverpage.html");
       }
 
     }
